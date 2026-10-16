@@ -1,4 +1,4 @@
-/* js/script.js of/for PeoplesGuide.bauska.org */
+/* js/script.js of bbauksa/Peoples-Guide-2025 for peoples-guide.bauska.org */
 /* hide these elements on page load */
 $('#main-menu, .menu-close').hide();
 
