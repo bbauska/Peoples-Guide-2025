@@ -1,8 +1,8 @@
-What is Project 2025?
+<h1>What is Project 2025?</h1>
 
-THE CONSERVATIVE PLAN FOR AUTOCRATIC AND MINORITY RULE
+<h2>THE CONSERVATIVE PLAN FOR AUTOCRATIC AND MINORITY RULE</h2>
 
-How will this extremism impact LGBTQI+ people?
+<h3>How will this extremism impact LGBTQI+ people?</h3>
 
 The Heritage Foundation, working with more than 90 other organizations, has made public its plans for 
 2025 in their multi-pronged 2025 Presidential Transition Project.¹ Their 920-page long Mandate for 
