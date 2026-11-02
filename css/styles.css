@@ -193,8 +193,9 @@ article {
 .menu-subheading {
   font-size: .9rem;
 }
+<!--  background-image: url('../images/New_Peoples_Guide.jpg'); -->
 .intro {
-  background-image: url('../images/New_Peoples_Guide.jpg');
+  background-image: url('../images/Peoples-Guide.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
