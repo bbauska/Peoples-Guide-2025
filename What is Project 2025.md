@@ -111,31 +111,27 @@ apply to foreign NGOs, including subgrantees and subcontractors, and remove exem
 for U.S.-based NGOs, public international organizations, and bilateral government-to-
 government agreements.”18
 
-
-
-1 The Heritage Foundation, Project 2025 Presidential Transition Project, https://www.project2025.org/ (last visited Feb. 2, 2024).
-2 The Heritage com/project2025/2025_MandateForLeadership_FULL.pdf (last visited Feb. 2, 2024) [hereinafter Mandate for Leadership].
-3 Id at 8.Foundation, Mandate for Leadership: The Conservative Promise (2023), available at https://thf_media.s3.amazonaws.
-4 Global Project Against Hate and Extremism, The Far-Right Playbook for American Authoritarianism: Project 2025 (2023), available at https://global extremism.org/project-2025-the-far-right-play-
-book-for-american-authoritarianism/ (last visited Feb. 2, 2024).
-5 Mandate for Leadership, supra note 2, at 4.
-6 Mandate for Leadership, supra note 2, at 1.
-7 Mandate for Leadership, supra note 2, at 489.
-8 Mandate for Leadership, supra note 2, at 584
-9 Mandate for Leadership, supra note 2, at 451.
-10 Geneva Consensus Declaration on Promoting Women’s Health and Strengthening the Family,” October 22, 2021, https://www.theiwh.org/wp-content/uploads/2022/02/GCD-Declaration-2021-2.
+<ol>
+  <li>1 The Heritage Foundation, Project 2025 Presidential Transition Project, https://www.project2025.org/ (last visited Feb. 2, 2024).</li>
+  <li>2 The Heritage com/project2025/2025_MandateForLeadership_FULL.pdf (last visited Feb. 2, 2024) [hereinafter Mandate for Leadership].</li>
+  <li>3 Id at 8.Foundation, Mandate for Leadership: The Conservative Promise (2023), available at https://thf_media.s3.amazonaws.</li>
+  <li>4 Global Project Against Hate and Extremism, The Far-Right Playbook for American Authoritarianism: Project 2025 (2023), available at https://global extremism.org/project-2025-the-far-right-play-
+book-for-american-authoritarianism/ (last visited Feb. 2, 2024).</li>
+  <li>5 Mandate for Leadership, supra note 2, at 4.</li>
+  <li>6 Mandate for Leadership, supra note 2, at 1.</li>
+  <li>7 Mandate for Leadership, supra note 2, at 489.</li>
+  <li>8 Mandate for Leadership, supra note 2, at 584</li>
+  <li>9 Mandate for Leadership, supra note 2, at 451.</li>
+  <li>10 Geneva Consensus Declaration on Promoting Women’s Health and Strengthening the Family,” October 22, 2021, https://www.theiwh.org/wp-content/uploads/2022/02/GCD-Declaration-2021-2.
 pdf (accessed Feb. 5, 2024). See also U.S. Department of State, Report on the Commission of Unalienable Rights, https://www.state.gov/wp-content/uploads/2020/07/Draft-Report-of-the-Commis-
-sion-on-Unalienable-Rights.pdf (accessed Feb. 5, 2024).
-11 Mandate for Leadership, supra note 2, at 192.
-12 Mandate for Leadership, supra note 2, at 89.
-13 Mandate for Leadership, supra note 2, at 258.
-14 Mandate for Leadership, supra note 2, at 259.
-15 Id.
-16 Mandate for Leadership, supra note 2, at 178.
-17 Beirne Roose-Snyder, LGBTQI+ People Need a Permanent End to the Global Gag Rule, Think Global Health, May 15, 2023, https://www.thinkglobalhealth.org/article/lgbtqi-people-need-permanent-end-
-global-gag-rule
-18 Mandate for Leadership, supra note 2, at 261.
-
-
-
-
+sion-on-Unalienable-Rights.pdf (accessed Feb. 5, 2024).</li>
+  <li>11 Mandate for Leadership, supra note 2, at 192.</li>
+  <li>12 Mandate for Leadership, supra note 2, at 89.</li>
+  <li>13 Mandate for Leadership, supra note 2, at 258.</li>
+  <li>14 Mandate for Leadership, supra note 2, at 259.</li>
+  <li>15 Id.</li>
+  <li>16 Mandate for Leadership, supra note 2, at 178.</li>
+  <li>17 Beirne Roose-Snyder, LGBTQI+ People Need a Permanent End to the Global Gag Rule, Think Global Health, May 15, 2023, https://www.thinkglobalhealth.org/article/lgbtqi-people-need-permanent-end-
+global-gag-rule</li>
+  <li>18 Mandate for Leadership, supra note 2, at 261.</li>
+</ol>
